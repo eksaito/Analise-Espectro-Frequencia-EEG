@@ -1,4 +1,4 @@
-# analise-ERSP
+# Analise ERSP
 
 Autores: André e Eric
 
